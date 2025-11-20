@@ -12,7 +12,6 @@ A small, responsive card that displays blog preview information including image,
 
 ### Links
 
-- Solution URL: https://github.com/Biruchenko/blog-preview-card
 - Live Site URL: https://biruchenko.github.io/blog-preview-card/
 
 ### Built with
